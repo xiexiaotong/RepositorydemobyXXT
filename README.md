@@ -1,2 +1,3 @@
 # RepositorydemobyXXT
 A simple demo to……
+每天起床第一句，低阶程序媛要努力
